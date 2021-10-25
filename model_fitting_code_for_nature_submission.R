@@ -1,3 +1,9 @@
+library("car")
+library("lmer")
+library("lmerTest")
+library("mgcv")
+library("gamm4")
+
 # Model fitting code for Demographic and hormonal evidence for menopause in wild chimpanzees
 
 # The datasets that are available from the corresponding authors with reasonable request are
